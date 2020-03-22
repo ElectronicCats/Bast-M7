@@ -1005,4 +1005,12 @@ Text Label 3880 1930 0    50   ~ 0
 SWDIO
 Text Label 3880 1830 0    50   ~ 0
 SWCLK
+Wire Wire Line
+	3670 2130 3880 2130
+Wire Wire Line
+	3670 2030 3870 2030
+Wire Wire Line
+	3670 1430 3890 1430
+Wire Wire Line
+	3670 1530 3890 1530
 $EndSCHEMATC
