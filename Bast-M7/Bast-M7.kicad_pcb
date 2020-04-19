@@ -258,7 +258,7 @@
   )
 
   (module Package_TO_SOT_SMD:SOT-23-5 (layer F.Cu) (tedit 5A02FF57) (tstamp 5E9CF47A)
-    (at 143.256 94.742)
+    (at 138.176 97.79)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /5E789F12)
@@ -301,7 +301,7 @@
   )
 
   (module Package_QFP:TQFP-80_12x12mm_P0.5mm (layer F.Cu) (tedit 5A02F146) (tstamp 5E9CF465)
-    (at 156.464 92.456)
+    (at 151.892 91.694)
     (descr "80-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.5")
     (path /5E778D1F)
@@ -501,7 +501,7 @@
   )
 
   (module Package_SO:SOIC-8_5.23x5.23mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1) (tstamp 5E9CF3FE)
-    (at 171.45 91.186)
+    (at 165.608 89.154)
     (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (path /5EBBB1D9)
